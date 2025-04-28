@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiReservacioncesGym.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a545cdb58a276384d68d33843c0e14b9f6ae4b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiReservacioncesGym.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiReservacioncesGym.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

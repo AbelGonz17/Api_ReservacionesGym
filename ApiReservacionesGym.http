@@ -1,0 +1,6 @@
+@ApiReservacionesGym_HostAddress = http://localhost:5180
+
+GET {{ApiReservacionesGym_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
