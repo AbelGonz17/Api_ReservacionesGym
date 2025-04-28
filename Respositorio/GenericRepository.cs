@@ -49,7 +49,7 @@ namespace ApiReservacionesGym.Respositorio
             return await _dbSet.CountAsync(predicate);
         }
 
-        public async Task<T> GetByConditionAsync(Expression<Func<T, bool>> condition, string includeProperties = "") //busca la entidad
+        public async Task<T?> GetByConditionAsync(Expression<Func<T, bool>> condition, string includeProperties = "") //busca la entidad
         {
             IQueryable<T> query = _dbSet;
 
